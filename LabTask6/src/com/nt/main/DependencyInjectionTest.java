@@ -19,7 +19,7 @@ public static void main(String[] args) {
 	
 	age.calculateAge(name);
 	ctx.close();
-	System.out.println("Thank you for Using This WebSite 😊");
+	System.out.println("Thank you for Using This WebSite "+name+" 😊");
 	System.out.println("Plz Visit It Again");
 	//System.out.println("DependencyInjectionTest.main()-ended");
 	
